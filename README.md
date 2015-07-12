@@ -1,0 +1,2 @@
+# Kohonen_Net
+IdeaProjects
